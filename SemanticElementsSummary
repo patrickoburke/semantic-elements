@@ -1,0 +1,5 @@
+Semantic elements represent a natural definition of what the content of a html document actually is. The intent of the semantic element is to more accurately describe to a what is contained within the tag itself.
+Not only does this make it easier for humans to read html documents and understand the developers' intent better, semantic elements make it easier for modern browsers to identify specific sections of a document, and to allow search engines to identify web content correctly.
+Using semantic elements should also allow for better sharing of data and content displayed in an html document.
+Primary examples of semantic elements include <article>, <header>, <footer>, <nav>, <section>, <aside>, <figure>, and <main>, along with a few others.
+ 
